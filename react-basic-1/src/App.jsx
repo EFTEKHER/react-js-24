@@ -1,4 +1,5 @@
-import Counter from "./Counter"
+import Color from "./Color"
+
 
 
 function App() {
@@ -6,8 +7,8 @@ function App() {
 
   return (
     <>
-     <Counter/> 
-        
+    <Color/>
+     
     </>
   )
 }
